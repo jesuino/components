@@ -1,7 +1,7 @@
 {
   "init": [
     {
-      "key": "prompt",
+      "key": ".prompt",
       "value": "Please check the following data and tell me what are the bigger dog breads: $data"
     },
     {
